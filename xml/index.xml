@@ -1,0 +1,17 @@
+<student>
+  <firstName></firstName>
+  <middleName></middleName>
+  <lastName></lastName>
+  <preferName></preferName>
+  <ID></ID>
+  <email></email>
+  <phoneNum></phoneNum>
+  <year></year>
+  <gpa></gpa>
+  <major></major>
+  <minor></minor>
+  <enrollStatus></enrollStatus>
+  <advisor></advisor>
+  <initEnrollDate></initEnrollDate>
+  <gradDate></gradDate>
+</student>
