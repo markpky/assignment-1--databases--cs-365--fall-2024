@@ -1,17 +1,17 @@
 <student>
-  <firstName></firstName>
-  <middleName></middleName>
-  <lastName></lastName>
-  <preferName></preferName>
-  <ID></ID>
-  <email></email>
-  <phoneNum></phoneNum>
-  <year></year>
-  <gpa></gpa>
-  <major></major>
-  <minor></minor>
-  <enrollTime></enrollTime>
-  <advisor></advisor>
-  <initEnrollDate></initEnrollDate>
-  <gradDate></gradDate>
+  <firstName>Gordon</firstName>
+  <middleName>Matthew</middleName>
+  <lastName>Sumner</lastName>
+  <preferName>“Sting”</preferName>
+  <ID>1234567</ID>
+  <email>sting@thepolice.com</email>
+  <phoneNum>212.123.4567</phoneNum>
+  <year>first year</year>
+  <gpa>4.0</gpa>
+  <major>Music</major>
+  <minor>English</minor>
+  <enrollTime>full-time</enrollTime>
+  <advisor>Andy Summers</advisor>
+  <initEnrollDate>08-25-1969</initEnrollDate>
+  <gradDate>05-01-1973</gradDate>
 </student>
