@@ -1,9 +1,6 @@
 <students>
   <student>
-    <firstName>Gordon</firstName>
-    <middleName>Matthew</middleName>
-    <lastName>Sumner</lastName>
-    <preferName>“Sting”</preferName>
+    <name first="Gordon" middle="Matthew" last="Sumner" preferred="“Sting”" />
     <ID>1234567</ID>
     <email>sting@thepolice.com</email>
     <phoneNum>212.123.4567</phoneNum>
