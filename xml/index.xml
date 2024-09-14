@@ -1,15 +1,21 @@
 <students>
   <student ID=1234567>
     <name first="Gordon" middle="Matthew" last="Sumner" preferred="“Sting”" />
-    <email>sting@thepolice.com</email>
-    <phoneNum>212.123.4567</phoneNum>
-    <year>first year</year>
-    <gpa>4.0</gpa>
-    <major>Music</major>
-    <minor>English</minor>
-    <enrollTime>full-time</enrollTime>
-    <advisor>Andy Summers</advisor>
-    <initEnrollDate>08-25-1969</initEnrollDate>
-    <gradDate>05-01-1973</gradDate>
+    <contactInfo>
+      <email>sting@thepolice.com</email>
+      <phoneNum>212.123.4567</phoneNum>
+    <contactInfo/>
+    <academics>
+      <gpa>4.0</gpa>
+      <major>Music</major>
+      <minor>English</minor>
+      <advisor>Andy Summers</advisor>
+    <academics/>
+    <status>
+      <year>first year</year>
+      <enrollTime>full-time</enrollTime>
+      <initEnrollDate>08-25-1969</initEnrollDate>
+      <gradDate>05-01-1973</gradDate>
+    <status/>
   </student>
 </students>
