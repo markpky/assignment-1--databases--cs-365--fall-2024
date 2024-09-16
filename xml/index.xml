@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE students SYSTEM "student.dtd">
+
 <students>
   <student ID=1234567>
     <name first="Gordon" middle="Matthew" last="Sumner" preferred="“Sting”" />
