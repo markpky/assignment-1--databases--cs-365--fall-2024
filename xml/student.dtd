@@ -1,0 +1,62 @@
+<!-- =======================================================================
+  Root element: students
+
+  students must contain one or more student elements.
+< ====================================================================== -->
+<!ELEMENT students (student)+>
+
+<!-- =======================================================================
+  student element contains one name, one contactInfo, one academics,
+  and one status element. The ID of a student is placed in an attribute
+  here.
+< ====================================================================== -->
+<!ELEMENT student (name,contactInfo,academics,status)>
+
+<!-- =======================================================================
+  The name element is empty. The name of a student is split into at
+  most 4 attributes.
+< ====================================================================== -->
+<!ELEMENT name EMPTY>
+
+<!-- =======================================================================
+  The contactInfo element contains one email and one phoneNum elment.
+< ====================================================================== -->
+<!ELEMENT contactInfo (email,phoneNum)>
+<!ELEMENT email       (#PCDATA)>
+<!ELEMENT phoneNum    (#PCDATA)>
+
+<!-- =======================================================================
+  The academics element contains one gpa, one major, one or no
+  minor, and one advisor element.
+< ====================================================================== -->
+<!ELEMENT academics (gpa,major,minor?,advisor)>
+<!ELEMENT gpa       (#PCDATA)>
+<!ELEMENT major     (#PCDATA)>
+<!ELEMENT minor     (#PCDATA)>
+<!ELEMENT advisor   (#PCDATA)>
+
+<!-- =======================================================================
+  the status element contains one year, one enrollTime, one initEnrollDate,
+  and one gradDate element.
+< ====================================================================== -->
+<!ELEMENT status         (year,enrollTime,initEnrollDate,gradDate)>
+<!ELEMENT year           (#PCDATA)>
+<!ELEMENT enrollTime     (#PCDATA)>
+<!ELEMENT initEnrollDate (#PCDATA)>
+<!ELEMENT gradDate       (#PCDATA)>
+
+<!-- =======================================================================
+  The ID attribute of a student is required.
+< ====================================================================== -->
+<!ATTLIST student
+          ID      CDATA #REQUIRED>
+
+<!-- =======================================================================
+  The first and last name attributes of a name are required.
+  The middle name is implied or optional.
+< ====================================================================== -->
+<!ATTLIST name
+          first     CDATA #REQUIRED
+          middle    CDATA #IMPLIED
+          last      CDATA #REQUIRED
+          preferred CDATA #IMPLIED>
