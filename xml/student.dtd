@@ -36,7 +36,7 @@
 <!ELEMENT advisor   (#PCDATA)>
 
 <!-- =======================================================================
-  the status element contains one year, one enrollTime, one initEnrollDate,
+  The status element contains one year, one enrollTime, one initEnrollDate,
   and one gradDate element.
 < ====================================================================== -->
 <!ELEMENT status         (year,enrollTime,initEnrollDate,gradDate)>
@@ -53,7 +53,7 @@
 
 <!-- =======================================================================
   The first and last name attributes of a name are required.
-  The middle name is implied or optional.
+  The middle name and preferred name are implied or optional.
 < ====================================================================== -->
 <!ATTLIST name
           first     CDATA #REQUIRED
