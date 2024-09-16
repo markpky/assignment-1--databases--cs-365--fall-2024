@@ -1,0 +1,11 @@
+students {
+  display:table
+}
+
+student {
+  display:table-row
+}
+
+name, contactInfo, academics, status {
+  display:table-cell
+}

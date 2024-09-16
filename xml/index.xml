@@ -8,94 +8,94 @@
     <contactInfo>
       <email>sting@thepolice.com</email>
       <phoneNum>212.123.4567</phoneNum>
-    <contactInfo/>
+    </contactInfo>
     <academics>
       <gpa>4.0</gpa>
       <major>Music</major>
       <minor>English</minor>
       <advisor>Andy Summers</advisor>
-    <academics/>
+    </academics>
     <status>
       <year>first year</year>
       <enrollTime>full-time</enrollTime>
       <initEnrollDate>08-25-1969</initEnrollDate>
       <gradDate>05-01-1973</gradDate>
-    <status/>
+    </status>
   </student>
   <student ID="4567890">
     <name first="Kim" last="Thayil" />
     <contactInfo>
       <email>kim@soundgarden.com</email>
       <phoneNum>206.123.4567</phoneNum>
-    <contactInfo/>
+    </contactInfo>
     <academics>
       <gpa>3.0</gpa>
       <major>Philosophy</major>
       <minor>Music</minor>
       <advisor>Chris Cornell</advisor>
-    <academics/>
+    </academics>
     <status>
       <year>second year</year>
       <enrollTime>full-time</enrollTime>
       <initEnrollDate>08-25-1978</initEnrollDate>
       <gradDate>05-01-1982</gradDate>
-    <status/>
+    </status>
   </student>
   <student ID="8302438">
     <name first="Saul" last="Hudson" preferred="“Slash”" />
     <contactInfo>
       <email>slash@gnr.com</email>
       <phoneNum>213.456.8392</phoneNum>
-    <contactInfo/>
+    </contactInfo>
     <academics>
       <gpa>2.0</gpa>
       <major>Music</major>
       <minor>Criminal Justice</minor>
       <advisor>Axl Rose</advisor>
-    <academics/>
+    </academics>
     <status>
       <year>fourth year</year>
       <enrollTime>part-time</enrollTime>
       <initEnrollDate>08-25-1983</initEnrollDate>
       <gradDate>05-01-1987</gradDate>
-    <status/>
+    </status>
   </student>
   <student ID="2983928">
     <name first="Emily" last="Kokal" />
     <contactInfo>
       <email>emily@warpaint.com</email>
       <phoneNum>213.123.7654</phoneNum>
-    <contactInfo/>
+    </contactInfo>
     <academics>
       <gpa>3.8</gpa>
       <major>Political Science</major>
       <minor>Law</minor>
       <advisor>Jenny Lee Lindberg</advisor>
-    <academics/>
+    </academics>
     <status>
       <year>third year</year>
       <enrollTime>full-time</enrollTime>
       <initEnrollDate>08-25-1998</initEnrollDate>
       <gradDate>05-01-2002</gradDate>
-    <status/>
+    </status>
   </student>
   <student ID="7645726">
     <name first="Mike" last="Inez" />
     <contactInfo>
       <email>mike@aic.com</email>
       <phoneNum>213.444.3323</phoneNum>
-    <contactInfo/>
+    </contactInfo>
     <academics>
       <gpa>4.0</gpa>
       <major>Business Management</major>
       <minor>Math</minor>
       <advisor>Jerry Cantrell</advisor>
-    <academics/>
+    </academics>
     <status>
       <year>second year</year>
       <enrollTime>full-time</enrollTime>
       <initEnrollDate>08-25-1984</initEnrollDate>
       <gradDate>05-01-1988</gradDate>
-    <status/>
+    </status>
   </student>
 </students>
