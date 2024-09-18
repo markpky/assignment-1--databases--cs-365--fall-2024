@@ -24,5 +24,109 @@
         "gradDate" : "05-01-1973"
       }
     ]
+  },
+  {
+    "4567890" :
+    [
+      {
+        "name" : ["Kim Thayil", ""]
+      },
+      {
+        "contactInfo" : ["kim@soundgarden.com", "206.123.4567"]
+      },
+      {
+        "academics" : ["3.0", ["Philosophy", "Music"]]
+      },
+      {
+        "status" : ["second year", "full-time"]
+      },
+      {
+        "advisor" : "Chris Cornell"
+      },
+      {
+        "enrollDate" : "08-25-1978"
+      },
+      {
+        "gradDate" : "05-01-1982"
+      }
+    ]
+  },
+  {
+    "8302438" :
+    [
+      {
+        "name" : ["Saul Hudson", "“Slash”"]
+      },
+      {
+        "contactInfo" : ["slash@gnr.com", "213.456.8392"]
+      },
+      {
+        "academics" : ["2.0", ["Music", "Criminal Justice"]]
+      },
+      {
+        "status" : ["fourth year", "part-time"]
+      },
+      {
+        "advisor" : "Axl Rose"
+      },
+      {
+        "enrollDate" : "08-25-1983"
+      },
+      {
+        "gradDate" : "05-01-1987"
+      }
+    ]
+  },
+  {
+    "2983928" :
+    [
+      {
+        "name" : ["Emily Kokal", ""]
+      },
+      {
+        "contactInfo" : ["emily@warpaint.com", "213.123.7654"]
+      },
+      {
+        "academics" : ["3.8", ["Political Science", "Law"]]
+      },
+      {
+        "status" : ["third year", "full-time"]
+      },
+      {
+        "advisor" : "Jenny Lee Lindberg"
+      },
+      {
+        "enrollDate" : "08-25-1998"
+      },
+      {
+        "gradDate" : "05-01-2002"
+      }
+    ]
+  },
+  {
+    "7645726" :
+    [
+      {
+        "name" : ["Mike Inez", ""]
+      },
+      {
+        "contactInfo" : ["mike@aic.com", "213.444.3323"]
+      },
+      {
+        "academics" : ["4.0", ["Business Management", "Math"]]
+      },
+      {
+        "status" : ["second year", "full-time"]
+      },
+      {
+        "advisor" : "Jerry Cantrell"
+      },
+      {
+        "enrollDate" : "08-25-1984"
+      },
+      {
+        "gradDate" : "05-01-1988"
+      }
+    ]
   }
 ]
