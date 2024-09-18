@@ -1,11 +1,25 @@
 students {
-  display:table
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+  border-collapse: collapse;
 }
 
 student {
-  display:table-row
+display: table-row;
 }
 
-name, contactInfo, academics, status {
-  display:table-cell
+student::before {
+display: table-cell;
+content: attr(ID);
+border: 1px solid;
+}
+
+name, contactInfo, academics, status{
+display: table-cell;
+border: 1px solid;
+}
+
+name::before {
+content: attr(first) ' ' attr(middle) ' ' attr(preferred) ' ' attr(last)
 }
