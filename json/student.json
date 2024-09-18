@@ -1,0 +1,28 @@
+[
+  {
+    "1234567" :
+    [
+      {
+        "name" : ["Gordon Matthew Sumner", "“Sting”"]
+      },
+      {
+        "contactInfo" : ["sting@thepolice.com", "212.123.4567"]
+      },
+      {
+        "academics" : ["4.0", ["Music", "English"]]
+      },
+      {
+        "status" : ["first year", "full-time"]
+      },
+      {
+        "advisor" : "Andy Summers"
+      },
+      {
+        "enrollDate" : "08-25-1969"
+      },
+      {
+        "gradDate" : "05-01-1973"
+      }
+    ]
+  }
+]
